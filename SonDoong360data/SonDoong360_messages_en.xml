@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="en_project_title"><![CDATA[Son Doong 360]]></data>
+  <data name="en_project_author_name"><![CDATA[Martin Edström]]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.martinedstrom.com]]></data>
+
+
+  <data name="en_panogroup71_title"><![CDATA[Introduction - Jungle]]></data>
+
+  <data name="en_pano37_title"><![CDATA[Son Doong 360]]></data>
+  <data name="en_spotpoint439_tooltip"><![CDATA[Continue toward Son Doong]]></data>
+
+  <data name="en_panogroup82_title"><![CDATA[Entrance to Son Doong]]></data>
+
+  <data name="en_pano48_title"><![CDATA[The National Park]]></data>
+  <data name="en_spotpoint462_tooltip"><![CDATA[Go back to the jungle river]]></data>
+  <data name="en_spotpoint463_tooltip"><![CDATA[Continue to the Entrance of Son Doong]]></data>
+  <data name="en_pano47_title"><![CDATA[Entrance]]></data>
+  <data name="en_spotpoint460_tooltip"><![CDATA[Go down the Entrance of Son Doong]]></data>
+  <data name="en_spotpoint461_tooltip"><![CDATA[Go back to the jungle]]></data>
+  <data name="en_pano51_title"><![CDATA[Entering Son Doong]]></data>
+  <data name="en_spotpoint464_tooltip"><![CDATA[Go down into Son Doong]]></data>
+  <data name="en_spotpoint506_tooltip"><![CDATA[Go back up through the Entrance]]></data>
+  <data name="en_pano50_title"><![CDATA[Lights on]]></data>
+  <data name="en_spotpoint465_tooltip"><![CDATA[Go back up the Entrance hill]]></data>
+  <data name="en_spotpoint466_tooltip"><![CDATA[Go to the River Crossing]]></data>
+  <data name="en_pano49_title"><![CDATA[River Crossing ]]></data>
+  <data name="en_spotpoint467_tooltip"><![CDATA[Go back toward the Entrance]]></data>
+  <data name="en_spotpoint468_tooltip"><![CDATA[Go into the Hand of Dog Cavern]]></data>
+
+  <data name="en_panogroup87_title"><![CDATA[Hand of Dog]]></data>
+
+  <data name="en_pano52_title"><![CDATA[Hope and Vision]]></data>
+  <data name="en_spotpoint469_tooltip"><![CDATA[Go back to the River Crossing]]></data>
+  <data name="en_spotpoint470_tooltip"><![CDATA[Go on top of the Hand of Dog]]></data>
+  <data name="en_pano53_title"><![CDATA[Top of Hand of Dog]]></data>
+  <data name="en_spotpoint471_tooltip"><![CDATA[Go back into the cavern]]></data>
+  <data name="en_spotpoint472_tooltip"><![CDATA[Go toward Doline One]]></data>
+
+  <data name="en_panogroup89_title"><![CDATA[Doline One - Watch out for Dinosaurs]]></data>
+
+  <data name="en_pano54_title"><![CDATA[Ascending Doline One]]></data>
+  <data name="en_spotpoint473_tooltip"><![CDATA[Go up into Doline One]]></data>
+  <data name="en_spotpoint474_tooltip"><![CDATA[Go back to Hand of Dog]]></data>
+  <data name="en_pano55_title"><![CDATA[Watch Out for Dinosaurs]]></data>
+  <data name="en_spotpoint475_tooltip"><![CDATA[Go on top of the stalagmite]]></data>
+  <data name="en_spotpoint476_tooltip"><![CDATA[Go back down the slope]]></data>
+  <data name="en_pano58_title"><![CDATA[Watch Out for Dinosaurs]]></data>
+  <data name="en_spotpoint477_tooltip"><![CDATA[Go down below Doline One]]></data>
+  <data name="en_spotpoint480_tooltip"><![CDATA[Go back through Doline One]]></data>
+  <data name="en_spotpoint1074_tooltip"><![CDATA[Go on top of the stalagmite]]></data>
+  <data name="en_pano57_title"><![CDATA[Below Doline One]]></data>
+  <data name="en_spotpoint483_tooltip"><![CDATA[Go back up to the stalagmites]]></data>
+  <data name="en_spotpoint484_tooltip"><![CDATA[Go toward Doline Two]]></data>
+  <data name="en_pano1072_title"><![CDATA[Watch Out for Dinosaurs]]></data>
+  <data name="en_spotpoint1075_tooltip"><![CDATA[Go down below Doline One]]></data>
+  <data name="en_spotpoint1076_tooltip"><![CDATA[Go to the stalagmite]]></data>
+
+  <data name="en_panogroup97_title"><![CDATA[Doline Two - Garden of Edam]]></data>
+
+  <data name="en_pano62_title"><![CDATA[Passage]]></data>
+  <data name="en_spotpoint485_tooltip"><![CDATA[Go toward Doline Two]]></data>
+  <data name="en_spotpoint486_tooltip"><![CDATA[Go back below Doline One]]></data>
+  <data name="en_pano63_title"><![CDATA[Ascending]]></data>
+  <data name="en_spotpoint487_tooltip"><![CDATA[Continue up toward Doline Two]]></data>
+  <data name="en_spotpoint488_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_pano65_title"><![CDATA[Ferns and plants]]></data>
+  <data name="en_spotpoint489_tooltip"><![CDATA[Continue up toward Doline Two]]></data>
+  <data name="en_spotpoint490_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_pano61_title"><![CDATA[Garden of Edam]]></data>
+  <data name="en_spotpoint491_tooltip"><![CDATA[Go into the forest]]></data>
+  <data name="en_spotpoint492_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_pano60_title"><![CDATA[Garden of Edam]]></data>
+  <data name="en_spotpoint493_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_spotpoint494_tooltip"><![CDATA[Continue through the jungle]]></data>
+  <data name="en_pano64_title"><![CDATA[Garden of Edam]]></data>
+  <data name="en_spotpoint495_tooltip"><![CDATA[Continue toward the end of Doline Two]]></data>
+  <data name="en_spotpoint496_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_pano67_title"><![CDATA[Garden of Edam]]></data>
+  <data name="en_spotpoint497_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_spotpoint498_tooltip"><![CDATA[Go down the hill toward Passchendaele]]></data>
+  <data name="en_pano66_title"><![CDATA[Camp Two]]></data>
+  <data name="en_spotpoint499_tooltip"><![CDATA[Go back up to the viewpoint]]></data>
+  <data name="en_spotpoint500_tooltip"><![CDATA[Continue down to Passchendaele]]></data>
+
+  <data name="en_panogroup103_title"><![CDATA[Passchendaele and the End]]></data>
+
+  <data name="en_pano70_title"><![CDATA[The Stalactite]]></data>
+  <data name="en_spotpoint501_tooltip"><![CDATA[Go back to Doline Two]]></data>
+  <data name="en_spotpoint502_tooltip"><![CDATA[Continue deeper into Son Doong]]></data>
+  <data name="en_pano69_title"><![CDATA[The Stalagmite]]></data>
+  <data name="en_spotpoint503_tooltip"><![CDATA[Go back toward Doline Two]]></data>
+  <data name="en_spotpoint504_tooltip"><![CDATA[Go to the Lake of Son Doong]]></data>
+  <data name="en_pano68_title"><![CDATA[The End]]></data>
+  <data name="en_spotpoint505_tooltip"><![CDATA[Go back toward Doline Two]]></data>
+
+
+	<data name="en_spotmap1596_tooltip"><![CDATA[«Ascending»]]></data>
+
+
+	<data name="en_project_floor_title"><![CDATA[Son Doong]]></data>
+	<data name="en_spotmap153_tooltip"><![CDATA[«Entrance to Son Doong»]]></data>
+	<data name="en_spotmap155_tooltip"><![CDATA[«Hand of Dog»]]></data>
+	<data name="en_spotmap156_tooltip"><![CDATA[«Doline One - Watch out for Dinosaurs»]]></data>
+	<data name="en_spotmap157_tooltip"><![CDATA[«Doline Two - Garden of Edam»]]></data>
+	<data name="en_spotmap158_tooltip"><![CDATA[«Passchendaele and the End»]]></data>
+	<data name="en_spotmap508_tooltip"><![CDATA[«Son Doong 360»]]></data>
+
+	<data name="en_panogroup82_floor_title"><![CDATA[Entrance to Son Doong]]></data>
+	<data name="en_spotmap271_tooltip"><![CDATA[«Entrance»]]></data>
+	<data name="en_spotmap272_tooltip"><![CDATA[«Entering Son Doong»]]></data>
+	<data name="en_spotmap273_tooltip"><![CDATA[«Lights on»]]></data>
+	<data name="en_spotmap274_tooltip"><![CDATA[«The National Park»]]></data>
+	<data name="en_spotmap275_tooltip"><![CDATA[«River Crossing »]]></data>
+	<data name="en_spotmap743_tooltip"><![CDATA[«Hope and Vision»]]></data>
+	<data name="en_panogroup87_floor_title"><![CDATA[Hand of Dog]]></data>
+	<data name="en_spotmap338_tooltip"><![CDATA[«Hope and Vision»]]></data>
+	<data name="en_spotmap339_tooltip"><![CDATA[«Top of Hand of Dog»]]></data>
+	<data name="en_spotmap744_tooltip"><![CDATA[«River Crossing »]]></data>
+	<data name="en_spotmap745_tooltip"><![CDATA[«Ascending Doline One»]]></data>
+	<data name="en_panogroup89_floor_title"><![CDATA[Doline One - Watch out for Dinosaurs]]></data>
+	<data name="en_spotmap341_tooltip"><![CDATA[«Ascending Doline One»]]></data>
+	<data name="en_spotmap342_tooltip"><![CDATA[«Watch Out for Dinosaurs»]]></data>
+	<data name="en_spotmap343_tooltip"><![CDATA[«Watch Out for Dinosaurs»]]></data>
+	<data name="en_spotmap344_tooltip"><![CDATA[«Below Doline One»]]></data>
+	<data name="en_spotmap746_tooltip"><![CDATA[«Top of Hand of Dog»]]></data>
+	<data name="en_spotmap747_tooltip"><![CDATA[«Passage»]]></data>
+	<data name="en_spotmap1225_tooltip"><![CDATA[«Watch Out for Dinosaurs»]]></data>
+	<data name="en_panogroup97_floor_title"><![CDATA[Doline Two - Garden of Edam]]></data>
+	<data name="en_spotmap347_tooltip"><![CDATA[«Passage»]]></data>
+	<data name="en_spotmap348_tooltip"><![CDATA[«Ascending»]]></data>
+	<data name="en_spotmap349_tooltip"><![CDATA[«Ferns and plants»]]></data>
+	<data name="en_spotmap350_tooltip"><![CDATA[«Garden of Edam»]]></data>
+	<data name="en_spotmap351_tooltip"><![CDATA[«Garden of Edam»]]></data>
+	<data name="en_spotmap352_tooltip"><![CDATA[«Garden of Edam»]]></data>
+	<data name="en_spotmap354_tooltip"><![CDATA[«Garden of Edam»]]></data>
+	<data name="en_spotmap355_tooltip"><![CDATA[«Camp Two»]]></data>
+	<data name="en_spotmap749_tooltip"><![CDATA[«The Stalactite»]]></data>
+	<data name="en_spotmap1611_tooltip"><![CDATA[«Below Doline One»]]></data>
+	<data name="en_panogroup103_floor_title"><![CDATA[Passchendaele and the End]]></data>
+	<data name="en_spotmap357_tooltip"><![CDATA[«The Stalactite»]]></data>
+	<data name="en_spotmap358_tooltip"><![CDATA[«The Stalagmite»]]></data>
+	<data name="en_spotmap359_tooltip"><![CDATA[«The End»]]></data>
+	<data name="en_spotmap1610_tooltip"><![CDATA[«Camp Two»]]></data>
+
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_socialSharespecific_url"><![CDATA[http://on.natgeo.com/1AaTxYp]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[About Martin Edström]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://www.martinedstrom.com]]></data>
+  <data name="en_contextmenuopenwebsitelabel2"><![CDATA[National Geographic]]></data>
+  <data name="en_contextmenuwebsiteurl2"><![CDATA[http://www.nationalgeographic.com]]></data>
+  <data name="en_contextmenuopenwebsitelabel3"><![CDATA[Back to article]]></data>
+  <data name="en_contextmenuwebsiteurl3"><![CDATA[http://news.nationalgeographic.com/2015/05/150520-infinity-cave-son-doong-vietnam-virtual-tour-photography-conservation/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_buttontooltip"><![CDATA[]]></data>
+
+  <data name="en_project_description"><![CDATA[<div><br></div>]]></data>
+
+
+  <data name="en_pano37_description"><![CDATA[<div><div>Chào mừng bạn đến Việt Nam và Vườn quốc gia Phong Nha-Kẻ Bàng. Bạn đang đứng giữa dòng sông, trên đường đến hang động lớn nhất thế giới: Hang Sơn Đoòng.</div><div><br></div><div>Sơn Đoòng gần đây đã trở thành đối tượng của các kế hoạch phát triển du lịch quy mô lớn sẽ làm thay đổi trạng thái nguyên sơ của nó. Bài báo cáo này đã bảo tồn một phiên bản kỹ thuật số của hang động, để bạn khám phá.</div><div><br></div><div>Như thể bạn đang ở đó.</div><div><br></div><div><b>Điều hướng</b></div><div>Bạn có thể nhìn xung quanh bằng cách kéo, bằng chuột hoặc bằng màn hình cảm ứng. </div><div><br></div><div>Nếu bạn đang sử dụng thiết bị máy tính bảng, bạn cũng có thể nhìn xung quanh bằng cách di chuyển máy tính bảng. Hãy thử điều này.</div><div><br></div><div>Khi bạn hoàn thành ở một vị trí, hãy sử dụng các mũi tên để di chuyển tiếp.</div><div><br></div><div><b>Bản đồ</b></div><div>Bên phải bạn có một bản đồ của Sơn Đoòng. Bạn có thể nhấp vào các điểm bản đồ để di chuyển đến các vị trí khác nhau trong hang động.</div><div><br></div><div><b>Thu phóng</b></div><div>Nhiều hình ảnh trong bài báo cáo này có độ phân giải rất cao. Khi bạn đứng ở những vị trí này, bạn có thể thu phóng và nhìn rất kỹ vào các chi tiết ở xa.</div></div><div><br></div><div><b>Tín dụng</b></div><div><u><i><a href="http://martinedstrom.com" target="_blank">Martin Edström</a></i> nhà nhiếp ảnh và nhà báo</u></div><div><u><i>Erik Hinnerdal</i> trợ lý nhiếp ảnh</u></div><div><u><i>Mats Kahlström</i> trợ lý nhiếp ảnh</u></div><div><u><i>Fredrik Edström</i> truyền thông</u></div><div><u><i>Alfred Runow</i> hậu cần</u></div><div><u><i>Katja Adolphson</i> trợ lý trường</u></div><div><u><i>Sebastian Zethraeus</i> trợ lý trường</u></div><div><u><br></u></div><div><u>Lưu ý: Nội dung bản đồ có thể không phản ánh chính sách bản đồ hiện tại của National Geographic.</u></div><div><u><br></u></div><div><u><br></u></div><div><u><br></u></div><div><u><br></u></div><div><u><br></u></div>]]></data>
+
+
+
+  <data name="en_pano48_description"><![CDATA[Vườn quốc gia Phong Nha Kẻ Bàng là một khu vực rất xa xôi và được bảo tồn tốt nằm ở giữa Việt Nam. Nó bắt đầu từ khoảng 500 kilômét về phía nam của Hà Nội, và giáp với Lào và Biển Đông. <div><br></div><div>Là một phần của dãy núi Trường Sơn, toàn bộ vườn quốc gia nằm trên một khối đá vôi lớn, đã tạo ra sự hình thành của hàng trăm hang động và hang đá. Hầu hết những hang động này đều có liên kết với nhau, và ước tính rằng tổng chiều dài của các hệ thống hang động này là hơn 200 kilômét.</div><div><br></div><div>Nhiều hang động vẫn chưa được khám phá.</div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano47_description"><![CDATA[Đây là lối vào được một người địa phương tên Ho Khanh phát hiện ra vào năm 1991. Không thể vào được vào lúc đó, ông Khanh quay lại và không thể tìm lại được nơi này.<div><br></div><div>Cho đến năm 2009, ông mới có thể tìm lại đường và khám phá cái hố cùng với một nhóm nhà thám hiểm người Anh. </div><div><br></div><div>Hóa ra những gì họ tìm thấy là hang động lớn nhất thế giới.</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano51_description"><![CDATA[Lối vào Sơn Đoòng là một con dốc trơn trượt đi vào bóng tối.&nbsp;Khám phá hang động mà không có ánh sáng nhân tạo là không thể.<div><br></div><div>Tiếp tục đi xuống phía dưới để bật đèn.</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano50_description"><![CDATA[Bật đèn bên trong Sơn Đoòng, cảnh quan tuyệt vời của các căn phòng bên trong hiện ra. Nhìn về phía bắc, bạn có thể thấy một trong nhiều măng đá được hình thành trong hàng thiên niên kỷ, hang động này vẫn không bị xáo trộn.<div><br></div><div>Nhìn lại hoặc về phía nam, bạn có thể thấy lối vào bạn đã đi qua ở phía xa . Căn phòng bạn đang đứng cao hơn 50 mét.</div><div><br></div><div>Đây mới chỉ là khởi đầu.</div><div><br></div> <div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano49_description"><![CDATA[Một dòng sông lớn và chảy xiết qua Sơn Đoòng. Chính nước đã hình thành nên hang động này qua hàng trăm ngàn năm. Nơi bạn đang đứng, mực nước hiện tại rất thấp nên có thể đi qua được.<div><br></div><div>Vào mùa mưa, nơi này sẽ hoàn toàn không thể đi qua được.</div><div ><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano52_description"><![CDATA[<div><div><div><div>Bây giờ bạn đang đứng trên đỉnh một măng đá bên trong hang động lớn đầu tiên. Xung quanh bạn là những măng đá khác, đã dần hình thành qua hàng nghìn năm. Lối đi này đủ rộng để một chiếc Boeing 747 có thể bay qua.</div><div><br></div><div><b>Hand of Dog</b></div><div>Nhìn về phía bắc , bạn có thể thấy một măng đá nhô lên trần hang, cao hơn hẳn những măng đá khác. Măng đá này có tên là Hand of Dog, cao hơn 70 mét. Nó có thể là măng đá cao nhất thế giới.</div><div><br></div><div><b>Phóng to</b></div><div>Hình ảnh 360° này có một độ phân giải rất cao, trên 500 megapixel. Hãy nhớ phóng to để xem chi tiết hang động và sự hình thành của nó.</div><div><br></div><div><b>Sự thật thú vị</b></div><div>Khi Nhóm các nhà khoa học đầu tiên khám phá hang động này vào năm 2009, họ nhìn thấy cấu trúc hùng vĩ và nghĩ đến việc đặt tên cho nó là 'Bàn tay của Chúa'. Quyết định không lạm dụng nó, thay vào đó họ chọn Hand of Dog.</div></div></div></div><div><br></div><div><br></div> <div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano53_description"><![CDATA[Bây giờ bạn đang đứng trên đỉnh măng đá có tên là Hand of Dog.<div><br></div><div>Nhìn về phía nam, bạn có thể nhìn thấy cột đá giống như trước ở đằng xa. Một người đứng trước nguồn sáng chỉ ra quy mô cho hang động khổng lồ.</div><div><br></div><div><b>Tìm khu trại</b></div><div> Nếu phóng to và nhìn xung quanh, bạn có thể thấy rõ khu cắm trại thám hiểm. Bạn có thể nhận ra nó không?</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano54_description"><![CDATA[Bạn có để ý đến cái lỗ khổng lồ trên trần hang không?<div><br></div><div>Đây là điều khiến Sơn Đoòng trở nên đặc biệt so với các hang động khác. Nhờ trần nhà bị sập, ánh sáng ban ngày tràn vào khu rừng phía trên. Điều này đã tạo điều kiện cho thảm thực vật tồn tại trong hang động.</div><div><br></div><div>Phía trước, đoàn thám hiểm đang tiến lên sườn dốc.</div><div><br></div><div><div><b>Phóng to</b></div><div>Hình ảnh 360° này có độ phân giải rất cao, trên 500 megapixel. Hãy nhớ phóng to.</div></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano55_description"><![CDATA[Bây giờ bạn đang đứng trên nền hang động của hố sụt đầu tiên của Sơn Đoòng. Cái này được đặt tên là 'Watch Out for Dinosaurs'.<div><div><br></div><div>Theo các nhà địa chất, con hố sụt này được hình thành trong vòng 500.000 năm qua, tại thời điểm mà trần hang động đơn giản là không thể không hỗ trợ trọng lượng riêng của nó. Nó sụp đổ vì đá yếu.</div></div><div><br></div><div>Thảm thực vật bên trong hang tương tự như khu rừng phía trên, vì nó vẫn được kết nối nhờ gió và mưa.</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano58_description"><![CDATA[Việc xác định chính xác tuổi của Sơn Đoòng thật khó. Hệ thống hang động đã hình thành trong một thời gian cực kỳ dài, dòng sông dần dần chạm khắc vào lớp đá vôi mềm.<div><br></div><div>Các nhà khoa học ước tính hang động bắt đầu hình thành trong thời kỳ địa chất Pliocene hoặc Miocen muộn.</div><div><br></div><div>Điều này có nghĩa là Sơn Đoòng có độ tuổi từ 2 đến 5 triệu năm.</div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano57_description"><![CDATA[<div><div>Bây giờ bạn đang đứng ở đoạn ngắn giữa hai hố sâu đã sụp đổ. Phần hang này là hóa thạch nguyên chất và chưa từng có trận lũ lụt lớn nào xảy ra ở phần này của hang trong lịch sử địa chất gần đây.</div><div><br></div><div>Điều này có nghĩa là phần này của hang động phần nào không bị xáo trộn bởi các yếu tố tự nhiên, điều này đã tạo điều kiện cho sự hình thành của những quả bầu tuyệt đẹp mà bạn có thể nhìn thấy xung quanh mình. Chúng được hình thành từ nước nhỏ giọt từ trần nhà.</div></div><div><br></div><div><b>Tìm đoàn thám hiểm</b></div><div>Có bốn người có thể nhìn thấy từ nơi bạn đang đứng. Bạn có thể xác định chính xác tất cả không?</div><div><br></div><div><div><b>Phóng to</b></div><div>Hình ảnh 360° này có độ phân giải rất cao độ phân giải trên 500 megapixel. Hãy nhớ phóng to để có thể xem chi tiết hang động và các món ăn của nó.</div></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano1072_description"><![CDATA[Việc xác định chính xác tuổi của Sơn Đoòng thật khó. Hệ thống hang động đã hình thành trong một thời gian cực kỳ dài, dòng sông dần dần khắc vào lớp đá vôi mềm.<br><div><br></div><div>Các nhà khoa học ước tính hang động bắt đầu hình thành trong thời kỳ địa chất Pliocene hoặc Miocen muộn </div><div><br></div><div>Điều này có nghĩa là Sơn Đoòng có độ tuổi từ 2 đến 5 triệu năm.</div><div><br></div><div><div><b>Phóng to</b></div><div>Hình ảnh 360° này có độ phân giải rất cao, trên 1 gigapixel. Có thể nhìn thấy một người từ vị trí này nhưng không thể tìm thấy nếu không phóng to.</div></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano62_description"><![CDATA[Đoạn đường giữa hố sụt thứ nhất và thứ hai chỉ vài trăm mét. So với các hố sụt khác, đây là một cảnh quan cằn cỗi hoàn toàn không nhận được bất kỳ ánh sáng mặt trời nào.<div><br></div><div>Nếu không có ánh sáng nhân tạo, bạn sẽ đứng trong một không gian rất tối.<br> <div><br></div><div><div><b>Phóng to</b></div><div>Hình ảnh 360° này có độ phân giải rất cao, trên 500 megapixel. Hãy nhớ phóng to để xem chi tiết hang động và sự hình thành của nó. Hãy xem liệu bạn có thể phát hiện ra đội thám hiểm đang tiến vào tuyến đường thứ hai hay không.</div></div><div><br></div><div><br></div><div><br></div><div><br></div></div>]]></data>
+
+  <data name="en_pano63_description"><![CDATA[Bây giờ bạn đang đứng trên một cánh đồng phytokarst rộng lớn. Nhìn về hướng Tây và hướng lên trên, bạn có thể thấy những tảng đá dường như nghiêng về phía mặt trời, giống như thực vật.<div><br></div><div><b>Phytokarst</b></div><div> Phytokarst là tên của loại đá này, dường như đang phát triển về phía ánh sáng. Tuy nhiên, mọi chuyện lại ngược lại.</div><div><br></div><div>Vỏ vôi đang dần bị xói mòn bởi hệ vi sinh vật bài tiết axit vào đá, tạo nên những thành tạo tuyệt vời này. Trong khi quá trình xói mòn làm cho tảng đá có vẻ như đang phát triển về phía ánh sáng thì những tảng đá này thực sự đang bị hệ vi sinh vật ăn mòn dần dần.</div><div><br></div><div><b>Flowstone</b> </div><div>Về phía đông, bên phải bạn khi nhìn lên dốc, là một khối đá khổng lồ. Đá lưu lượng được tạo ra trong một khoảng thời gian dài, trong khi nước nhỏ giọt từ trần hang động tạo ra các lớp canxit dạng tấm biến thành những khối lớn như thế này.</div><div><br></div><div><div><div><b>Phóng to</b></div><div>Hình ảnh 360° này có độ phân giải rất cao, trên 500 megapixel. Hãy nhớ phóng to để có thể xem chi tiết lĩnh vực phytokarst.</div></div></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano65_description"><![CDATA[Càng gần ánh sáng ban ngày, cây xanh càng lớn. Điều này có thể thấy rõ từ nơi bạn đứng, vì dương xỉ tăng kích thước cho đến tận hố sụt.<div><br></div><div>Tất cả dương xỉ dường như nghiêng, đó là do tất cả họ muốn một góc 90 độ hướng về phía ánh sáng mặt trời mang lại sự sống. Mục đích chính là tối đa hóa thời gian nổi bật của họ.</div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano61_description"><![CDATA[<div>Đây là Vườn Edam.&nbsp;</div><div><br></div><div>Hố sụt này lớn hơn nhiều so với Watch out for Dinosaurs, trải dài khoảng 163 mét dọc theo chân đế và có một khu rừng dày hơn giống với khu rừng phía trên.</div><div><br></div><div>Hố sụt này có lẽ không sụp đổ vì đá yếu, giống như hố sụt đầu tiên đã làm. Các nhà khoa học ước tính nó sụp đổ vì nó nằm ở giao điểm của hai đường đứt gãy lớn mà sự mất ổn định tổng hợp của chúng đã dẫn đến sự sụp đổ.</div><div><br></div><div>Ngày nay, hố sụt nắm giữ một khu rừng thực sự gồm của riêng nó, có những cây cao và cảnh quan dễ chịu cho các loài chim cũng như côn trùng.</div><div><br></div><div><b>Các đường đứt gãy</b></div><div><div>Trong địa chất, đứt gãy là một 'vết nứt' trong đá do chuyển động của Trái đất.&nbsp;Đường đứt gãy là dấu vết bề mặt của đứt gãy, đường giao nhau giữa mặt phẳng đứt gãy và bề mặt Trái đất.</div><div><br></div><div>Những thứ này có thể nhìn thấy trên mặt đá ở bên trái khu rừng.</div></div><div><br></div><div> <div><b>Phóng to</b></div><div>Hình ảnh 360° này có độ phân giải rất cao, trên 1 gigapixel. Hãy nhớ xem xét chi tiết khu rừng trước khi tiếp tục.</div></div><div><br></div><div><br></div><div><br>< /div>]]></data>
+
+  <data name="en_pano60_description"><![CDATA[Đứng giữa rừng rậm như thế này, thật khó để nhớ rằng bạn vẫn đang ở trong hang động.<div><br></div><div>So với con hố sụt đầu tiên, đây là khu rừng mà bạn rất dễ bị lạc .</div><div><br></div><div>Những cái cây xung quanh bạn cao hơn 30 mét. Trong mùa mưa ở Việt Nam, khu rừng này bị tàn phá bởi các yếu tố tự nhiên - cảnh quan của nó thay đổi hoàn toàn hàng năm.</div><div><br></div><div><br></div><div><br> </div>]]></data>
+
+  <data name="en_pano64_description"><![CDATA[<div>Khu rừng rộng lớn bao quanh Sơn Đoòng là nơi sinh sống của nhiều loài động vật hoang dã đa dạng, một số loài đã tràn vào hang động. Các nhà thám hiểm đã phát hiện ra các loài chim, khỉ và thậm chí cả rắn trong hang động.&nbsp;</div><div><br></div><div>Do khám phá hang động này rất gần đây nên vẫn còn rất ít tài liệu về các loài được tìm thấy trong đó. Nhiều loài được tìm thấy trong khu rừng xung quanh được liệt kê trong cả Danh sách đỏ các loài bị đe dọa của IUCN và Sách đỏ của Việt Nam, đánh dấu chúng là loài quý hiếm hoặc có nguy cơ tuyệt chủng.&nbsp;</div><div><br></div> <div>Nhiều loài mới chưa từng được biết đến ở Việt Nam đã được tìm thấy trong khu vực trong những năm gần đây. Rất có thể còn nhiều thứ như vậy được tìm thấy bên trong Sơn Đoòng.&nbsp;</div>]]></data>
+
+  <data name="en_pano67_description"><![CDATA[Đi bộ qua Sơn Đoòng là một đặc ân hiếm có người nào trên Trái đất có được. Những chuyến thám hiểm đầu tiên tới hang động từ năm 2009 trở đi đã đưa các nhà khoa học và nhà thám hiểm đi qua các lối đi trong hang, mặc dù số lượng rất hạn chế.<div><br></div><div>Với việc chính quyền Việt Nam còn thiếu quyết đoán về cách cho phép phát triển du lịch của hang động, trạng thái nguyên sơ của nó vào năm 2015 có thể sẽ thay đổi theo năm tháng.</div><div><br></div><div><div><div><b>Phóng to</b> </div><div>Hình ảnh 360° này có độ phân giải rất cao, trên 500 megapixel. Hãy nhớ phóng to và xem khu cắm trại.</div></div><div><br></div><div><br></div><div><br></div ><div><br></div><div><br></div></div>]]></data>
+
+  <data name="en_pano66_description"><![CDATA[Đi bộ qua Sơn Đoòng vẫn là một đặc ân mà rất ít người trên Trái đất ban tặng. Những chuyến thám hiểm ban đầu tới hang động từ năm 2009 trở đi đã đưa các nhà khoa học và nhà thám hiểm đi qua các lối đi trong hang, mặc dù số lượng rất hạn chế.<div><div><br></div><div>Với việc chính quyền Việt Nam chưa quyết định về cách cho phép Đối với sự phát triển du lịch của hang động, trạng thái nguyên sơ của nó vào năm 2015 có thể sẽ thay đổi trong suốt những năm tới.</div></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano70_description"><![CDATA[<div><div>Hãy cẩn thận với những loài bò sát đáng sợ!</div><div><br></div><div>Bây giờ bạn đang đi vào những đoạn thấp hơn, tối hơn của Sơn Đoòng. Từ thời điểm này trở đi, ánh sáng nhân tạo là điều bắt buộc. Nếu không có đèn pha, bạn sẽ vấp ngã trong bóng tối hoàn toàn.</div><div><br></div><div>Sự thiếu ánh sáng và cảnh quan độc đáo, cằn cỗi của khu vực nội địa Sơn Đoòng đã buộc một số loài sinh vật lỗi để thích nghi. Trong khi các nhà khoa học vẫn đang nghiên cứu trong hang động, ít nhất một loài rận rừng mới và một loài cá mới đã được xác nhận.</div></div><div><br></div><div><br ></div><div><br></div>]]></data>
+
+  <data name="en_pano69_description"><![CDATA[<div>Hãy cẩn thận với những loài bò sát đáng sợ!</div><div><br></div><div>Bây giờ bạn đang đi vào những đoạn thấp hơn, tối hơn của Sơn Đoòng. Từ thời điểm này trở đi, ánh sáng nhân tạo là điều bắt buộc. Nếu không có đèn pha, bạn sẽ vấp ngã trong bóng tối hoàn toàn.</div><div><br></div><div>Sự thiếu ánh sáng và cảnh quan độc đáo, cằn cỗi của khu vực nội địa Sơn Đoòng đã buộc một số loài sinh vật lỗi để thích nghi. Trong khi các nhà khoa học vẫn đang nghiên cứu trong hang động, ít nhất một loài rận rừng mới và một loài cá mới đã được xác nhận.</div><div><br></div><div><div><div> <b>Phóng to</b></div><div>Hình ảnh 360° này có độ phân giải rất cao, trên 500 megapixel. Hãy nhớ phóng to và xem chi tiết của những măng đá khổng lồ.</div></div></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano68_description"><![CDATA[Sơn Đoòng là môi trường sống, thay đổi từng ngày. Đoạn này thường là một rãnh bùn dẫn vào đoạn cuối của hang. Hiện tại, do mưa lớn nên khu vực này đã bị ngập lụt và hình thành một hồ nước.<div><br></div><div>Đây là nơi chuyến thám hiểm của bạn kết thúc.<div><br></div><div>A bí ẩn kéo dài là nguồn gốc của dòng nước sông chảy qua khu vực có tên Passchendaele. Trong khi toàn bộ lượng nước chảy qua phần đầu tiên của hang động, cho đến mạch nước đầu tiên, đã được lập bản đồ - các chuyên gia vẫn đang cố gắng tìm ra nguồn nước trong cùng chảy từ đâu.</div><div><br></div ><div>Với lượng nước khổng lồ chảy qua khu vực này, câu hỏi đặt ra là liệu nguồn nước này có đến từ một hang động lớn hơn nữa hay không - một hang động vẫn chưa được phát hiện.</div><div><br></div ><div>Đứng trong căn phòng đồ sộ của hang động lớn nhất Trái đất này, người ta không khỏi ngạc nhiên.</div></div><div><br></div><div><div><b>Credits</b></div><div><div><div><u><i><a href="http://martinedstrom.com/" target="_blank">Martin Edström</a></i>&nbsp;photographer and journalist</u></div><div><u><i>Erik Hinnerdal</i>&nbsp;assistant photographer</u></div><div><u><i>Mats Kahlström</i>&nbsp;assistant photographer</u></div><div><u><i>Fredrik Edström</i>&nbsp;communications</u></div><div><u><i>Alfred Runow</i>&nbsp;logistics</u></div><div><u><i>Katja Adolphson</i>&nbsp;field-assistant</u></div><div><u><i>Sebastian Zethraeus</i>&nbsp;field-assistant</u></div></div></div></div><div><u><br></u></div><div><u>Disclaimer: Map content may not reflect National Geographic's current map policy.</u></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+</krpano>

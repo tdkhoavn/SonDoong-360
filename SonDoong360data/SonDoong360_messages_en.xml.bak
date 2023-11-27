@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="en_project_title"><![CDATA[Son Doong 360]]></data>
+  <data name="en_project_author_name"><![CDATA[Martin Edström]]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.martinedstrom.com]]></data>
+
+
+  <data name="en_panogroup71_title"><![CDATA[Introduction - Jungle]]></data>
+
+  <data name="en_pano37_title"><![CDATA[Son Doong 360]]></data>
+  <data name="en_spotpoint439_tooltip"><![CDATA[Continue toward Son Doong]]></data>
+
+  <data name="en_panogroup82_title"><![CDATA[Entrance to Son Doong]]></data>
+
+  <data name="en_pano48_title"><![CDATA[The National Park]]></data>
+  <data name="en_spotpoint462_tooltip"><![CDATA[Go back to the jungle river]]></data>
+  <data name="en_spotpoint463_tooltip"><![CDATA[Continue to the Entrance of Son Doong]]></data>
+  <data name="en_pano47_title"><![CDATA[Entrance]]></data>
+  <data name="en_spotpoint460_tooltip"><![CDATA[Go down the Entrance of Son Doong]]></data>
+  <data name="en_spotpoint461_tooltip"><![CDATA[Go back to the jungle]]></data>
+  <data name="en_pano51_title"><![CDATA[Entering Son Doong]]></data>
+  <data name="en_spotpoint464_tooltip"><![CDATA[Go down into Son Doong]]></data>
+  <data name="en_spotpoint506_tooltip"><![CDATA[Go back up through the Entrance]]></data>
+  <data name="en_pano50_title"><![CDATA[Lights on]]></data>
+  <data name="en_spotpoint465_tooltip"><![CDATA[Go back up the Entrance hill]]></data>
+  <data name="en_spotpoint466_tooltip"><![CDATA[Go to the River Crossing]]></data>
+  <data name="en_pano49_title"><![CDATA[River Crossing ]]></data>
+  <data name="en_spotpoint467_tooltip"><![CDATA[Go back toward the Entrance]]></data>
+  <data name="en_spotpoint468_tooltip"><![CDATA[Go into the Hand of Dog Cavern]]></data>
+
+  <data name="en_panogroup87_title"><![CDATA[Hand of Dog]]></data>
+
+  <data name="en_pano52_title"><![CDATA[Hope and Vision]]></data>
+  <data name="en_spotpoint469_tooltip"><![CDATA[Go back to the River Crossing]]></data>
+  <data name="en_spotpoint470_tooltip"><![CDATA[Go on top of the Hand of Dog]]></data>
+  <data name="en_pano53_title"><![CDATA[Top of Hand of Dog]]></data>
+  <data name="en_spotpoint471_tooltip"><![CDATA[Go back into the cavern]]></data>
+  <data name="en_spotpoint472_tooltip"><![CDATA[Go toward Doline One]]></data>
+
+  <data name="en_panogroup89_title"><![CDATA[Doline One - Watch out for Dinosaurs]]></data>
+
+  <data name="en_pano54_title"><![CDATA[Ascending Doline One]]></data>
+  <data name="en_spotpoint473_tooltip"><![CDATA[Go up into Doline One]]></data>
+  <data name="en_spotpoint474_tooltip"><![CDATA[Go back to Hand of Dog]]></data>
+  <data name="en_pano55_title"><![CDATA[Watch Out for Dinosaurs]]></data>
+  <data name="en_spotpoint475_tooltip"><![CDATA[Go on top of the stalagmite]]></data>
+  <data name="en_spotpoint476_tooltip"><![CDATA[Go back down the slope]]></data>
+  <data name="en_pano58_title"><![CDATA[Watch Out for Dinosaurs]]></data>
+  <data name="en_spotpoint477_tooltip"><![CDATA[Go down below Doline One]]></data>
+  <data name="en_spotpoint480_tooltip"><![CDATA[Go back through Doline One]]></data>
+  <data name="en_spotpoint1074_tooltip"><![CDATA[Go on top of the stalagmite]]></data>
+  <data name="en_pano57_title"><![CDATA[Below Doline One]]></data>
+  <data name="en_spotpoint483_tooltip"><![CDATA[Go back up to the stalagmites]]></data>
+  <data name="en_spotpoint484_tooltip"><![CDATA[Go toward Doline Two]]></data>
+  <data name="en_pano1072_title"><![CDATA[Watch Out for Dinosaurs]]></data>
+  <data name="en_spotpoint1075_tooltip"><![CDATA[Go down below Doline One]]></data>
+  <data name="en_spotpoint1076_tooltip"><![CDATA[Go to the stalagmite]]></data>
+
+  <data name="en_panogroup97_title"><![CDATA[Doline Two - Garden of Edam]]></data>
+
+  <data name="en_pano62_title"><![CDATA[Passage]]></data>
+  <data name="en_spotpoint485_tooltip"><![CDATA[Go toward Doline Two]]></data>
+  <data name="en_spotpoint486_tooltip"><![CDATA[Go back below Doline One]]></data>
+  <data name="en_pano63_title"><![CDATA[Ascending]]></data>
+  <data name="en_spotpoint487_tooltip"><![CDATA[Continue up toward Doline Two]]></data>
+  <data name="en_spotpoint488_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_pano65_title"><![CDATA[Ferns and plants]]></data>
+  <data name="en_spotpoint489_tooltip"><![CDATA[Continue up toward Doline Two]]></data>
+  <data name="en_spotpoint490_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_pano61_title"><![CDATA[Garden of Edam]]></data>
+  <data name="en_spotpoint491_tooltip"><![CDATA[Go into the forest]]></data>
+  <data name="en_spotpoint492_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_pano60_title"><![CDATA[Garden of Edam]]></data>
+  <data name="en_spotpoint493_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_spotpoint494_tooltip"><![CDATA[Continue through the jungle]]></data>
+  <data name="en_pano64_title"><![CDATA[Garden of Edam]]></data>
+  <data name="en_spotpoint495_tooltip"><![CDATA[Continue toward the end of Doline Two]]></data>
+  <data name="en_spotpoint496_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_pano67_title"><![CDATA[Garden of Edam]]></data>
+  <data name="en_spotpoint497_tooltip"><![CDATA[Go back toward Doline One]]></data>
+  <data name="en_spotpoint498_tooltip"><![CDATA[Go down the hill toward Passchendaele]]></data>
+  <data name="en_pano66_title"><![CDATA[Camp Two]]></data>
+  <data name="en_spotpoint499_tooltip"><![CDATA[Go back up to the viewpoint]]></data>
+  <data name="en_spotpoint500_tooltip"><![CDATA[Continue down to Passchendaele]]></data>
+
+  <data name="en_panogroup103_title"><![CDATA[Passchendaele and the End]]></data>
+
+  <data name="en_pano70_title"><![CDATA[The Stalactite]]></data>
+  <data name="en_spotpoint501_tooltip"><![CDATA[Go back to Doline Two]]></data>
+  <data name="en_spotpoint502_tooltip"><![CDATA[Continue deeper into Son Doong]]></data>
+  <data name="en_pano69_title"><![CDATA[The Stalagmite]]></data>
+  <data name="en_spotpoint503_tooltip"><![CDATA[Go back toward Doline Two]]></data>
+  <data name="en_spotpoint504_tooltip"><![CDATA[Go to the Lake of Son Doong]]></data>
+  <data name="en_pano68_title"><![CDATA[The End]]></data>
+  <data name="en_spotpoint505_tooltip"><![CDATA[Go back toward Doline Two]]></data>
+
+
+	<data name="en_spotmap1596_tooltip"><![CDATA[«Ascending»]]></data>
+
+
+	<data name="en_project_floor_title"><![CDATA[Son Doong]]></data>
+	<data name="en_spotmap153_tooltip"><![CDATA[«Entrance to Son Doong»]]></data>
+	<data name="en_spotmap155_tooltip"><![CDATA[«Hand of Dog»]]></data>
+	<data name="en_spotmap156_tooltip"><![CDATA[«Doline One - Watch out for Dinosaurs»]]></data>
+	<data name="en_spotmap157_tooltip"><![CDATA[«Doline Two - Garden of Edam»]]></data>
+	<data name="en_spotmap158_tooltip"><![CDATA[«Passchendaele and the End»]]></data>
+	<data name="en_spotmap508_tooltip"><![CDATA[«Son Doong 360»]]></data>
+
+	<data name="en_panogroup82_floor_title"><![CDATA[Entrance to Son Doong]]></data>
+	<data name="en_spotmap271_tooltip"><![CDATA[«Entrance»]]></data>
+	<data name="en_spotmap272_tooltip"><![CDATA[«Entering Son Doong»]]></data>
+	<data name="en_spotmap273_tooltip"><![CDATA[«Lights on»]]></data>
+	<data name="en_spotmap274_tooltip"><![CDATA[«The National Park»]]></data>
+	<data name="en_spotmap275_tooltip"><![CDATA[«River Crossing »]]></data>
+	<data name="en_spotmap743_tooltip"><![CDATA[«Hope and Vision»]]></data>
+	<data name="en_panogroup87_floor_title"><![CDATA[Hand of Dog]]></data>
+	<data name="en_spotmap338_tooltip"><![CDATA[«Hope and Vision»]]></data>
+	<data name="en_spotmap339_tooltip"><![CDATA[«Top of Hand of Dog»]]></data>
+	<data name="en_spotmap744_tooltip"><![CDATA[«River Crossing »]]></data>
+	<data name="en_spotmap745_tooltip"><![CDATA[«Ascending Doline One»]]></data>
+	<data name="en_panogroup89_floor_title"><![CDATA[Doline One - Watch out for Dinosaurs]]></data>
+	<data name="en_spotmap341_tooltip"><![CDATA[«Ascending Doline One»]]></data>
+	<data name="en_spotmap342_tooltip"><![CDATA[«Watch Out for Dinosaurs»]]></data>
+	<data name="en_spotmap343_tooltip"><![CDATA[«Watch Out for Dinosaurs»]]></data>
+	<data name="en_spotmap344_tooltip"><![CDATA[«Below Doline One»]]></data>
+	<data name="en_spotmap746_tooltip"><![CDATA[«Top of Hand of Dog»]]></data>
+	<data name="en_spotmap747_tooltip"><![CDATA[«Passage»]]></data>
+	<data name="en_spotmap1225_tooltip"><![CDATA[«Watch Out for Dinosaurs»]]></data>
+	<data name="en_panogroup97_floor_title"><![CDATA[Doline Two - Garden of Edam]]></data>
+	<data name="en_spotmap347_tooltip"><![CDATA[«Passage»]]></data>
+	<data name="en_spotmap348_tooltip"><![CDATA[«Ascending»]]></data>
+	<data name="en_spotmap349_tooltip"><![CDATA[«Ferns and plants»]]></data>
+	<data name="en_spotmap350_tooltip"><![CDATA[«Garden of Edam»]]></data>
+	<data name="en_spotmap351_tooltip"><![CDATA[«Garden of Edam»]]></data>
+	<data name="en_spotmap352_tooltip"><![CDATA[«Garden of Edam»]]></data>
+	<data name="en_spotmap354_tooltip"><![CDATA[«Garden of Edam»]]></data>
+	<data name="en_spotmap355_tooltip"><![CDATA[«Camp Two»]]></data>
+	<data name="en_spotmap749_tooltip"><![CDATA[«The Stalactite»]]></data>
+	<data name="en_spotmap1611_tooltip"><![CDATA[«Below Doline One»]]></data>
+	<data name="en_panogroup103_floor_title"><![CDATA[Passchendaele and the End]]></data>
+	<data name="en_spotmap357_tooltip"><![CDATA[«The Stalactite»]]></data>
+	<data name="en_spotmap358_tooltip"><![CDATA[«The Stalagmite»]]></data>
+	<data name="en_spotmap359_tooltip"><![CDATA[«The End»]]></data>
+	<data name="en_spotmap1610_tooltip"><![CDATA[«Camp Two»]]></data>
+
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_socialSharespecific_url"><![CDATA[http://on.natgeo.com/1AaTxYp]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[About Martin Edström]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://www.martinedstrom.com]]></data>
+  <data name="en_contextmenuopenwebsitelabel2"><![CDATA[National Geographic]]></data>
+  <data name="en_contextmenuwebsiteurl2"><![CDATA[http://www.nationalgeographic.com]]></data>
+  <data name="en_contextmenuopenwebsitelabel3"><![CDATA[Back to article]]></data>
+  <data name="en_contextmenuwebsiteurl3"><![CDATA[http://news.nationalgeographic.com/2015/05/150520-infinity-cave-son-doong-vietnam-virtual-tour-photography-conservation/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_buttontooltip"><![CDATA[]]></data>
+
+  <data name="en_project_description"><![CDATA[<div><br></div>]]></data>
+
+
+  <data name="en_pano37_description"><![CDATA[<div><div>Welcome to Vietnam, and the Phong Nha-Ke Bang National Park.&nbsp;You're standing in the middle of a river, on your way to the world's largest cave: Hang Son Doong.</div><div><br></div><div>Son Doong has recently become subject to plans of extensive tourism developments that would greatly alter its untouched state. This reportage has preserved a digital version of the cave, &nbsp;for you to explore.</div><div><br></div><div>As if you were there.</div><div><br></div><div><b>Navigation</b></div><div>You can look around by dragging, either with the mouse or using your touchscreen.&nbsp;</div><div><br></div><div>If you're using a tablet device you can also look around by moving the tablet. Be sure to try this.</div><div><br></div><div>When you are done in one location, use the arrows to move on.</div><div><br></div><div><b>Map</b></div><div>On the right you have a map of Son Doong. You can click on the map pointers to move to different locations in the cave.</div><div><br></div><div><b>Zooming</b></div><div>Many images in this reportage are of extremely high resolution. When you are standing in these locations, you can zoom in and look very closely at details in the distance.</div></div><div><br></div><div><b>Credits</b></div><div><u><i><a href="http://martinedstrom.com" target="_blank">Martin Edström</a></i>&nbsp;photographer and journalist</u></div><div><u><i>Erik Hinnerdal</i>&nbsp;assistant photographer</u></div><div><u><i>Mats Kahlström</i>&nbsp;assistant photographer</u></div><div><u><i>Fredrik Edström</i>&nbsp;communications</u></div><div><u><i>Alfred Runow</i>&nbsp;logistics</u></div><div><u><i>Katja Adolphson</i>&nbsp;field-assistant</u></div><div><u><i>Sebastian Zethraeus</i>&nbsp;field-assistant</u></div><div><u><br></u></div><div><u>Disclaimer: Map content may not reflect National Geographic's current map policy.</u></div><div><u><br></u></div><div><u><br></u></div><div><u><br></u></div><div><u><br></u></div><div><u><br></u></div>]]></data>
+
+
+
+  <data name="en_pano48_description"><![CDATA[Phong Nha Ke-Bang National Park is a very remote and well preserved area located in the middle of Vietnam. It starts about 500 kilometers south of Hanoi, and borders Laos and the South China Sea.&nbsp;<div><br></div><div>Part of the Truong Son mountain range, the whole national park is situated in a large limestone massif, which has made possible the formation of hundreds of caves and grottoes. Most of these are connected, and it is estimated that the total length of these cave systems are over 200 kilometers.</div><div><br></div><div>Many caves remain unexplored.</div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano47_description"><![CDATA[This opening was found in 1991, by a local man named Ho Khanh. Unable to enter at the time, Mr. Khanh turned back and was unable to locate this place again.<div><br></div><div>It was not until 2009 he was able to find his way back and explore the hole with a group of British explorers.&nbsp;</div><div><br></div><div>What they found turned out to be the largest cave on Earth.</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano51_description"><![CDATA[The entrance to Son Doong is a slippery slope downward into darkness.&nbsp;Exploring the cave without artificial lighting is impossible.<div><br></div><div>Continue downward to turn on the lights.</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano50_description"><![CDATA[Turning on the lights inside Son Doong, the fantastic landscape of its inner chambers is revealed. Looking north, you can see one of many stalagmites formed during the milleniums this cave has remained undisturbed.<div><br></div><div>Looking back, or south, you can see the entrance you came through in the distance. The chamber you're standing in is over 50 meters tall.</div><div><br></div><div>This is just the beginning.</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano49_description"><![CDATA[A large and fast river flows through Son Doong. It is the very water which has formed the cave over the course of hundreds of thousands of years. Where you are standing, the water level is currently very low, making it possible to pass.<div><br></div><div>In the rainy season, this place would be completely impassable.</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano52_description"><![CDATA[<div><div><div><div>You are now standing on top of a stalagmite inside the first large cavern. All around you are other stalagmites, that have slowly formed over thousands of years. This passage is large enough that a Boeing 747 could fly through it.</div><div><br></div><div><b>Hand of Dog</b></div><div>Looking north, you can see a stalagmite rising towards the cave ceiling, well above the others. This stalagmite, called the Hand of Dog, is over 70 meters tall. It may well be the tallest stalagmite in the world.</div><div><br></div><div><b>Zoom in</b></div><div>This 360° image has a very high resolution, over 500 megapixels. Be sure to zoom in to view the cavern and its formations in detail.</div><div><br></div><div><b>Fun fact</b></div><div>When the first team of scientists explored this cave in 2009, they saw the majestic structure and thought about naming it the 'Hand of God'. Deciding not to overdo it, they settled on Hand of Dog instead.</div></div></div></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano53_description"><![CDATA[You are now standing on top of the stalagmite called Hand of Dog.<div><br></div><div>Looking south, you can see the same stone pillar as before in the distance. A person standing in front of the light source gives scale to the mammoth cavern.</div><div><br></div><div><b>Find the camp</b></div><div>If you zoom in and look around, you can clearly see the expedition campsite. Can you spot it?</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano54_description"><![CDATA[Notice the huge hole in the ceiling?<div><br></div><div>This is what makes Son Doong very special compared to other caves. Thanks to the collapsed ceiling, daylight is flowing in through the jungle above. This has made it possible for vegetation within the cave.</div><div><br></div><div>Up ahead, the expedition is making their way up the steep slope.</div><div><br></div><div><div><b>Zoom in</b></div><div>This 360° image has a very high resolution, over 500 megapixels. Be sure to zoom in.</div></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano55_description"><![CDATA[You're now standing on the cave floor of the first doline, or sinkhole, of Son Doong. This one is named 'Watch Out for Dinosaurs'.<div><div><br></div><div>According to geologists, this doline was formed within the last 500,000 years, at a point where the cave ceiling simply couldn't support its own weight. It collapsed because of weaknesses in the rock.</div></div><div><br></div><div>The vegetation inside the cave is similar to the jungle above, since it is still connected through wind and rain.</div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano58_description"><![CDATA[Determining the exact age of Son Doong is hard. The cave system has formed during such an extremely long time, the river slowly carving at the soft limestone.<div><br></div><div>Scientists estimate the cave started forming during the Pliocene or late Miocene geological era.</div><div><br></div><div>This means Son Doong is between 2 and 5 million years old.</div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano57_description"><![CDATA[<div><div>You're now standing in the short section between the two collapsed dolines. This section of the cave is pure fossil, and there has been no major flooding of this part of the cave in recent geological history.</div><div><br></div><div>This means that this part of the cave has been somewhat undisturbed by the elements, which has made possible the formation of the beautiful gours you can see all around you. They have formed from water dripping from the ceiling.</div></div><div><br></div><div><b>Find the expedition</b></div><div>There are four people visible from where you are standing. Can you pinpoint them all?</div><div><br></div><div><div><b>Zoom in</b></div><div>This 360° image has a very high resolution, over 500 megapixels. Be sure to zoom in to be able to view the cavern and its gours in detail.</div></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano1072_description"><![CDATA[Determining the exact age of Son Doong is hard. The cave system has formed during such an extremely long time, the river slowly carving at the soft limestone.<br><div><br></div><div>Scientists estimate the cave started forming during the Pliocene or late Miocene geological era.</div><div><br></div><div>This means Son Doong is between 2 and 5 million years old.</div><div><br></div><div><div><b>Zoom in</b></div><div>This 360° image has a very high resolution, at over 1 gigapixel. A single person is visible from this location, but impossible to find without zooming in.</div></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano62_description"><![CDATA[The passage between the first and second doline is just a few hundred meters. Compared to the dolines, this is a barren landscape that doesn't get any sunlight at all.<div><br></div><div>Without artificial lighting, you would be standing in a very dark space.<br><div><br></div><div><div><b>Zoom in</b></div><div>This 360° image has a very high resolution, over 500 megapixels. Be sure to zoom in to view the cavern and its formations in detail. See if you can spot the expedition team moving up into the second doline.</div></div><div><br></div><div><br></div><div><br></div><div><br></div></div>]]></data>
+
+  <data name="en_pano63_description"><![CDATA[You are now standing in a huge field of phytokarst. Looking west, and upward, you can see rocks that seem to be slanted toward the sun, like plants.<div><br></div><div><b>Phytokarst</b></div><div>Phytokarst is the name for this type of rock, that seems to be growing toward the light. However, it is the other way around.</div><div><br></div><div>The limestone is slowly being eroded by microflora that's excreting acid into the rock, which is creating these fantastic formations. While the erosion makes the rock appear to be growing toward the light, these rocks are actually slowly being eroded by the microflora.</div><div><br></div><div><b>Flowstone</b></div><div>To the east, on your right when looking uphill, is a huge flowstone. Flowstones are created over vast periods of time, while water dripping from the cave ceiling creates sheetlike deposits of calcite that turn into massive blocks like this.</div><div><br></div><div><div><div><b>Zoom in</b></div><div>This 360° image has a very high resolution, over 500 megapixels. Be sure to zoom in to be able to view the field of phytokarst in detail.</div></div></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano65_description"><![CDATA[The closer you get to daylight, the larger the greenery. This is clearly visible from where you stand, as the ferns increase in size all the way up toward the sinkhole.<div><br></div><div>All of the ferns seems to tilt, which is due to all of them wanting a 90 degree angle toward the life-giving sunlight. It's all about maximizing their time in the spotlight.</div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano61_description"><![CDATA[<div>This is the Garden of Edam.&nbsp;</div><div><br></div><div>This doline is much larger than Watch out for Dinosaurs, stretching about 163 meters across the base, and has a thicker forest more similar to the jungle above.</div><div><br></div><div>This doline probably didn't collapse because of weak rock, like the first doline did. Scientists estimate it collapsed because it is located at the intersection of two major fault lines, whose combined instability led to the collapse.</div><div><br></div><div>Today the doline holds a veritable forest of its own, hosting tall trees and a forgiving landscape for birds and bugs alike.</div><div><br></div><div><b>Fault lines</b></div><div><div>In geology, a fault is a 'fracture' in rock as a result of the Earth's movement.&nbsp;A fault line is the surface trace of a fault, the line of intersection between the fault plane and the Earth's surface.</div><div><br></div><div>These are visible on the rock face to the left of the forest.</div></div><div><br></div><div><div><b>Zoom in</b></div><div>This 360° image has a very high resolution, at over 1 gigapixel. Be sure to take a look at the forest in detail before you continue.</div></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano60_description"><![CDATA[Standing in the middle of a jungle like this, it's hard to remember you are still inside a cave.<div><br></div><div>Compared to the first doline, this is a forest where you can easily get lost.</div><div><br></div><div>The trees around you grow over 30 meters tall. During Vietnam's rainy season, this forest is ravaged by the elements - its landscape changing radically every year.</div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano64_description"><![CDATA[<div>The vast jungle surrounding Son Doong is home to a wide variety wildlife, some of which has spilled over into the cave. Birds, monkeys and even snakes have been spotted in the cave by the explorers.&nbsp;</div><div><br></div><div>Due to the very recent discovery of the cave there is still very little documentation on the species found within it. Many of the species found in the surrounding jungle are listed on both the IUCN Red List of Threatened Species and Vietnam's Red Data Book, marking them as rare or endangered species.&nbsp;</div><div><br></div><div>Many new species, previously unknown to inhabit Vietnam, have been found in the region in recent years. Chances are there are more of these to be found inside Son Doong.&nbsp;</div>]]></data>
+
+  <data name="en_pano67_description"><![CDATA[Walking through Son Doong is a privilege granted to few people on Earth. Initial expeditions to the cave from 2009 and onwards have brought scientists and explorers through its passages, though very limited in number.<div><br></div><div>With authorities in Vietnam being indecisive about how to allow for tourism developments of the cave, its pristine state in 2015 may well come to change throughout the years.</div><div><br></div><div><div><div><b>Zoom in</b></div><div>This 360° image has a very high resolution, over 500 megapixels. Be sure to zoom in and have a look at the campsite.</div></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div></div>]]></data>
+
+  <data name="en_pano66_description"><![CDATA[Walking through Son Doong is yet a privilege granted few people on Earth. Initial expeditions to the cave from 2009 and onwards have brought scientists and explorers through its passages, though very limited in number.<div><div><br></div><div>With authorities in Vietnam being indecisive about how to allow for tourism developments of the cave, its pristine state in 2015 may well come to change throughout the years.</div></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+
+  <data name="en_pano70_description"><![CDATA[<div><div>Look out for creepy crawlies!</div><div><br></div><div>You're now entering into the lower, darker, passages of the Son Doong. From this point and onwards, artificial lighting is a must. Without a headlamp, you would be stumbling in complete darkness.</div><div><br></div><div>This deprivation of light and the unique, barren, landscape of Son Doong's inner reaches has forced several species of bugs to adapt. While scientists are still at work in the cave, at least one new species of woodlouse and one new species of fish have been confirmed.</div></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano69_description"><![CDATA[<div>Look out for creepy crawlies!</div><div><br></div><div>You're now entering into the lower, darker, passages of the Son Doong. From this point and onwards, artificial lighting is a must. Without a headlamp, you would be stumbling in complete darkness.</div><div><br></div><div>This deprivation of light and the unique, barren, landscape of Son Doong's inner reaches has forced several species of bugs to adapt. While scientists are still at work in the cave, at least one new species of woodlouse and one new species of fish have been confirmed.</div><div><br></div><div><div><div><b>Zoom in</b></div><div>This 360° image has a very high resolution, over 500 megapixels. Be sure to zoom in and have a look at the details of the huge stalagmites.</div></div></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+  <data name="en_pano68_description"><![CDATA[Son Doong is a living environment, changing every day.&nbsp;This passage is normally a muddy trench, leading into the last stretch of the cave. Now, because of heavy rains, this section has flooded and formed a lake.<div><br></div><div>This is where your expedition ends.<div><br></div><div>A lingering mystery is the origin of the river water flowing through the area called Passchendaele. While all the water flowing through the first section of the cave, up to the first doline, has been mapped - experts are still trying to figure out where the innermost waters flow from.</div><div><br></div><div>With the massive volumes of water passing through this section, the question is whether this water comes from an even larger cave - one that hasn't yet been discovered.</div><div><br></div><div>Standing in the massive chambers of this largest cave on Earth, one cannot but wonder.</div></div><div><br></div><div><div><b>Credits</b></div><div><div><div><u><i><a href="http://martinedstrom.com/" target="_blank">Martin Edström</a></i>&nbsp;photographer and journalist</u></div><div><u><i>Erik Hinnerdal</i>&nbsp;assistant photographer</u></div><div><u><i>Mats Kahlström</i>&nbsp;assistant photographer</u></div><div><u><i>Fredrik Edström</i>&nbsp;communications</u></div><div><u><i>Alfred Runow</i>&nbsp;logistics</u></div><div><u><i>Katja Adolphson</i>&nbsp;field-assistant</u></div><div><u><i>Sebastian Zethraeus</i>&nbsp;field-assistant</u></div></div></div></div><div><u><br></u></div><div><u>Disclaimer: Map content may not reflect National Geographic's current map policy.</u></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></data>
+
+
+</krpano>
